@@ -1,12 +1,12 @@
 name = "Jeefpack"
 author = "Jeef"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b6739077c6ab388c453250dca4e6c778828513f376a25583e97590de3958e315"
+hash = "83be566d7c29e00697368621c6236c4dbd2857f5e2924186cb3f6a0c12456980"
 
 [versions]
 forge = "47.3.7"

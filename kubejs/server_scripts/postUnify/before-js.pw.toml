@@ -1,0 +1,7 @@
+name = "before.js"
+filename = "_before.js"
+
+[download]
+url = "https://raw.githubusercontent.com/AllTheMods/ATM-9/refs/heads/main/kubejs/server_scripts/postUnify/_before.js"
+hash-format = "sha256"
+hash = "34f9b0531ed7f7c3a91c1a6ce7a966ea7cef6bcf4f2b236bc94b9cbea4e39772"

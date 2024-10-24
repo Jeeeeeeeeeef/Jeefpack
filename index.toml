@@ -3067,8 +3067,9 @@ file = "kubejs/server_scripts/ore_removal.js"
 hash = "e2698544ae24e19b353e970211482259f7ee10ef0260617f1d734852f58f19a7"
 
 [[files]]
-file = "kubejs/server_scripts/postUnify/_before.js"
-hash = "34f9b0531ed7f7c3a91c1a6ce7a966ea7cef6bcf4f2b236bc94b9cbea4e39772"
+file = "kubejs/server_scripts/postUnify/before-js.pw.toml"
+hash = "23f0e33e02d97f90c1af62d1f818a988826bc3ffd69d619605ca09dea090ac4f"
+metafile = true
 
 [[files]]
 file = "kubejs/server_scripts/postUnify/dust.js"
