@@ -3412,11 +3412,6 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "3a563cec62a27bffa896631b5560d2f546ff2623ab9e2cabfeced7904c09c5d8"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "cf91e95108b487edd7e8d7c8a5a466a8d6f1218a6469c8dd7e866b8c551ecace"
 metafile = true
@@ -5139,11 +5134,6 @@ metafile = true
 [[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "bec02df9321feda1e0ff9b4dcf21cc724faa3494c7e45cd68b6e81f3596a708a"
-metafile = true
-
-[[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "4d2a9da7c09a85448943858dfe66fdbf6b2b262acd28ed4055d620ceb560da18"
 metafile = true
 
 [[files]]
